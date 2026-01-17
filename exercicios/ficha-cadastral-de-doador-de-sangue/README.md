@@ -1,6 +1,3 @@
-Segue um **README simples e direto**, alinhado com o código e com foco em estudo.
-
----
 
 # Cadastro de Doadores de Sangue
 
